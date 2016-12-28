@@ -37,12 +37,12 @@ var StoreData = function(){
         type:this.typeData[4],
         topClass:this.topClass[0]
       },
-      {
-        tUrl:"images/case/rm/index.png",
-        proName:"亿投传媒管理后台",
-        type:this.typeData[5],
-        topClass:this.topClass[1]
-      },
+      // {
+      //   tUrl:"images/case/rm/index.png",
+      //   proName:"亿投传媒管理后台",
+      //   type:this.typeData[5],
+      //   topClass:this.topClass[1]
+      // },
       {
         tUrl:"images/case/eap/index.png",
         proName:"建行心融客户端",
